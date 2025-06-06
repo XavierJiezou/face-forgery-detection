@@ -18,4 +18,4 @@
 
 - Xuechao Zou: Project Leader
 - Shun Zhang: Data Leader
-- Hao Liu: Code Leader
+- Jueqi Liu: Code Leader
