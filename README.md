@@ -12,7 +12,7 @@
 
 - [ ] [CVPR 2024] [NPR](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
 - [ ] [WACV 2025] [Wavelet-CLIP](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)
-- [ ] [CVPR 2025] [D³](https://github.com/BigAandSmallq/D3)
+- [ ] [CVPR 2025] [D³](https://github.com/BigAandSmallq/D3) @Jueqi Liu
 
 ## Core Contributors
 
