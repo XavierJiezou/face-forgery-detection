@@ -2,7 +2,7 @@
 
 ## Prepare Data
 
-数据目录结构@Shun Zhang
+数据目录结构@Shun Zhang,整理好之后也上传到HF上去。
 
 ```bash
 
