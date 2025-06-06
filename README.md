@@ -1,6 +1,6 @@
 # Face-Forgery-Detection
 
-## Prepare Data
+## Prepare Dataset
 
 数据目录结构@Shun Zhang
 
