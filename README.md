@@ -39,9 +39,9 @@ data
 
 ## Supported Method
 
-- [ ] [CVPR 2024] [NPR](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
-- [ ] [WACV 2025] [Wavelet-CLIP](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)
-- [ ] [CVPR 2025] [D³](https://github.com/BigAandSmallq/D3)
+- [x] [CVPR 2024] [NPR](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
+- [x] [WACV 2025] [Wavelet-CLIP](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)
+- [x] [CVPR 2025] [D³](https://github.com/BigAandSmallq/D3)
 
 ## Core Contributors
 
