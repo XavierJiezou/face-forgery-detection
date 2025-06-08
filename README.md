@@ -9,6 +9,7 @@
 
 ## Prepare Dataset
 
+<!--
 - Input Modal
   - Text
   - Mask
@@ -25,7 +26,7 @@
   - Cutmix
   - Cutout
   - Mosaic
-
+-->
 
 ```bash
 data
