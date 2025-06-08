@@ -20,7 +20,7 @@
   - GAN & Diffusion
   - Flow
 
-- Data augmentation strategy
+- Data Augmentation
   - Mixup
   - Cutmix
   - Cutout
