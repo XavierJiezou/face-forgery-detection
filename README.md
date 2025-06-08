@@ -23,6 +23,7 @@
 - Data augmentation strategy
   - Mixup
   - Cutmix
+  - Cutout
 
 
 ```bash
