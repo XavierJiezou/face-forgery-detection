@@ -20,6 +20,8 @@
   - GAN && Diffusion
   - Flow
 
+- Data augmentation strategy
+
 ```bash
 data
 |-- fake
