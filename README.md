@@ -17,7 +17,7 @@
 - Model Paradigm
   - GAN
   - Diffusion
-  - GAN && Diffusion
+  - GAN & Diffusion
   - Flow
 
 - Data augmentation strategy
