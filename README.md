@@ -12,7 +12,7 @@
 - Input Modal
   - Text
   - Mask
-  - Text && Mask
+  - Text & Mask
 
 - Model Paradigm
   - GAN
