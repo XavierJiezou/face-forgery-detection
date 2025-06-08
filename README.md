@@ -21,6 +21,9 @@
   - Flow
 
 - Data augmentation strategy
+  - Mixup
+  - Cutmix
+
 
 ```bash
 data
