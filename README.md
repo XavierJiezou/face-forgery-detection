@@ -1,5 +1,7 @@
 # Face-Forgery-Detection
 
+[![Spaces](https://img.shields.io/badge/🤗HugginngFace-Spaces-orange)](https://huggingface.co/spaces/XavierJiezou/face-forgery-detection)
+
 ## Prepare Dataset
 
 数据目录结构@Shun Zhang
