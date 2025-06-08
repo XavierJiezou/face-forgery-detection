@@ -12,7 +12,28 @@
 数据目录结构@Shun Zhang
 
 ```bash
-
+data
+|-- fake
+|   |-- clip2latent
+|   |-- collaborativediffusion
+|   |-- controlnet
+|   |-- e2style
+|   |-- e3facenet
+|   |-- flux.1-dev
+|   |-- gcdp
+|   |-- inade
+|   |-- ipadapter
+|   |-- pix2pix_turbo
+|   |-- pixelfaceplus
+|   |-- scgan
+|   |-- semflow
+|   |-- stable diffusion 1.5
+|   |-- tedigan
+|   |-- uniteandconquer
+|   |-- face-mogle
+|-- real
+|   |-- celeba
+|   |-- ffhq
 ```
 
 
