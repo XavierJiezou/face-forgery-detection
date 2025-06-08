@@ -9,8 +9,6 @@
 
 ## Prepare Dataset
 
-数据目录结构@Shun Zhang
-
 ```bash
 data
 |-- fake
