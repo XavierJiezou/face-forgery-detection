@@ -9,6 +9,17 @@
 
 ## Prepare Dataset
 
+- Input Modal
+  - Text
+  - Mask
+  - Text && Mask
+
+- Model Paradigm
+  - GAN
+  - Diffusion
+  - GAN && Diffusion
+  - Flow
+
 ```bash
 data
 |-- fake
