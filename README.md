@@ -24,6 +24,7 @@
   - Mixup
   - Cutmix
   - Cutout
+  - Mosaic
 
 
 ```bash
