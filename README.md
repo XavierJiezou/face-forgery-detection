@@ -1,7 +1,7 @@
 # Face-Forgery-Detection
 
-[![Space](https://img.shields.io/badge/🤗HugginngFace-Spaces-orange)](https://huggingface.co/spaces/XavierJiezou/face-forgery-detection)
-[![Dataset](https://img.shields.io/badge/🤗HugginngFace-Spaces-orange)](https://huggingface.co/datasets/XavierJiezou/FaceShield)
+[![Space](https://img.shields.io/badge/🤗HugginngFace-Space-orange)](https://huggingface.co/spaces/XavierJiezou/face-forgery-detection)
+[![Dataset](https://img.shields.io/badge/🤗HugginngFace-Dataset-orange)](https://huggingface.co/datasets/XavierJiezou/FaceShield)
 
 ## Online Demo 
 
