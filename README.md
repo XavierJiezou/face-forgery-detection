@@ -1,7 +1,7 @@
 # Face-Forgery-Detection
 
-[![Spaces](https://img.shields.io/badge/🤗HugginngFace-Spaces-orange)](https://huggingface.co/spaces/XavierJiezou/face-forgery-detection)
-
+[![Space](https://img.shields.io/badge/🤗HugginngFace-Spaces-orange)](https://huggingface.co/spaces/XavierJiezou/face-forgery-detection)
+[![Dataset](https://img.shields.io/badge/🤗HugginngFace-Spaces-orange)](https://huggingface.co/datasets/XavierJiezou/FaceShield)
 
 ## Online Demo 
 
@@ -59,9 +59,3 @@ data
 - [x] [CVPR 2024] [NPR](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)
 - [x] [WACV 2025] [Wavelet-CLIP](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)
 - [x] [CVPR 2025] [D³](https://github.com/BigAandSmallq/D3)
-
-## Core Contributors
-
-- Xuechao Zou: Project Leader
-- Shun Zhang: Data Leader
-- Jueqi Liu: Code Leader
